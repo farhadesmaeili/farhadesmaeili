@@ -29,7 +29,7 @@
 - 🧠 Possess strong skills in both **frontend** and **backend** development, with a passion for clean code and robust architecture.
 - 🚀 Eager to learn and adapt to new technologies.
 - 📍 Based in Iran
-- 📫 Reach me at: `your-email@example.com`
+<!-- - 📫 Reach me at: `your-email@example.com` -->
 
 ---
 
