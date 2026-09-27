@@ -208,14 +208,75 @@ I’m interested in designing infrastructure that is:
 
 ---
 
-## 🗄️ Databases & Data
+## 🗄️ Databases, Caching & Data Layer
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=000000" alt="Drizzle ORM" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL" />
+  <img src="https://img.shields.io/badge/Database_Design-1E293B?style=for-the-badge" alt="Database Design" />
+  <img src="https://img.shields.io/badge/Data_Modeling-334155?style=for-the-badge" alt="Data Modeling" />
+</p>
+
+### ORM & Data Access
+
+<p>
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=000000" alt="Drizzle ORM" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+</p>
+
+### Data Engineering Experience
+
+I work with both **relational and NoSQL data models**, choosing the appropriate persistence strategy based on application requirements.
+
+```text
+PostgreSQL
+├── Relational Data Modeling
+├── Transactions
+├── Constraints & Indexes
+├── Migrations
+├── Connection Pooling
+├── Repository Pattern
+├── Transactional Outbox
+└── Concurrent Worker Processing
+
+MongoDB
+├── Document-based Data Modeling
+├── NoSQL Persistence
+├── Flexible Schemas
+├── Collections & Documents
+└── Backend Application Integration
+
+Redis
+├── Caching
+├── Session / Temporary Data
+├── Fast Key-Value Access
+├── Pub/Sub Concepts
+└── Distributed Application Support
+
+ORM / Data Access
+├── Drizzle ORM
+├── Prisma ORM
+├── SQL Queries
+├── Repository Abstraction
+└── Database Migrations
+```
+
+I'm particularly interested in designing data layers that are:
+
+- **Transactional**
+- **Consistent**
+- **Scalable**
+- **Type-safe**
+- **Easy to migrate**
+- **Repository-oriented**
+- **Infrastructure-independent**
+- **Reliable under concurrent workloads**
 ---
 
 ## 🏗️ Software Architecture
