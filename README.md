@@ -13,9 +13,18 @@ Building scalable applications, intelligent systems, APIs, automation workflows,
 </p>
 
 <p>
-  <a href="https://github.com/farhadesmaeili">
+  <a href="https://farhades.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/farhadesmaeili" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-farhadesmaeili-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.linkedin.com/in/farhad-esmaeili" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Farhad_Esmaeili-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Full--Stack-Developer-0ea5e9?style=for-the-badge" alt="Full Stack Developer" />
   <img src="https://img.shields.io/badge/AI-Engineering-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="AI Engineering" />
   <img src="https://img.shields.io/badge/Cloud-Development-2563EB?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloud Development" />
@@ -41,8 +50,15 @@ I enjoy designing software with clear boundaries, maintainable architecture, str
 - 🏗️ Interested in **Clean Architecture, Domain-Driven Design, and modular systems**
 - 🐳 Working with **Docker, Linux, CI/CD, and deployment automation**
 - 📱 Building cross-platform applications with **Flutter & Dart**
+- 🗄️ Working with **SQL, NoSQL, caching, ORMs, and persistence architectures**
 - 🔐 Interested in reliable, secure, and observable production systems
 - 📚 Continuously learning **AI Engineering, Cloud, DevOps, and Software Architecture**
+
+### 🌐 Portfolio
+
+You can explore more of my work, skills, and projects on my personal website:
+
+**[farhades.vercel.app](https://farhades.vercel.app/)**
 
 ---
 
@@ -169,6 +185,7 @@ Areas I work with and explore include:
 <p>
   <img src="https://img.shields.io/badge/Cloud-Computing-0284C7?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud Computing" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/VPS-Hosting-0F172A?style=for-the-badge&logo=linux&logoColor=white" alt="VPS" />
   <img src="https://img.shields.io/badge/Cloud_Native-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Cloud Native" />
 </p>
@@ -230,9 +247,7 @@ I’m interested in designing infrastructure that is:
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
 </p>
 
-### Data Engineering Experience
-
-I work with both **relational and NoSQL data models**, choosing the appropriate persistence strategy based on application requirements.
+I work with both **relational and NoSQL data models**, choosing persistence strategies based on application requirements.
 
 ```text
 PostgreSQL
@@ -242,8 +257,7 @@ PostgreSQL
 ├── Migrations
 ├── Connection Pooling
 ├── Repository Pattern
-├── Transactional Outbox
-└── Concurrent Worker Processing
+└── Transactional Outbox
 
 MongoDB
 ├── Document-based Data Modeling
@@ -267,16 +281,6 @@ ORM / Data Access
 └── Database Migrations
 ```
 
-I'm particularly interested in designing data layers that are:
-
-- **Transactional**
-- **Consistent**
-- **Scalable**
-- **Type-safe**
-- **Easy to migrate**
-- **Repository-oriented**
-- **Infrastructure-independent**
-- **Reliable under concurrent workloads**
 ---
 
 ## 🏗️ Software Architecture
@@ -287,8 +291,6 @@ I'm particularly interested in designing data layers that are:
   <img src="https://img.shields.io/badge/SOLID-Principles-334155?style=for-the-badge" alt="SOLID" />
   <img src="https://img.shields.io/badge/Modular-Architecture-475569?style=for-the-badge" alt="Modular Architecture" />
 </p>
-
-Some of the principles I care about:
 
 ```text
 ✓ Clean Architecture
@@ -328,8 +330,6 @@ Databases & External Services
      ↓
 Real-world Actions
 ```
-
-to build systems capable of automating complex workflows.
 
 ---
 
@@ -418,56 +418,21 @@ const developer = {
 
 ---
 
-<!--
-## 🚀 Featured Projects
-
-When you're ready, add your strongest public projects here.
-
-### Project Name
-
-Short description explaining:
-- What the project does
-- What problem it solves
-- Interesting engineering decisions
-
-**Tech Stack**
-
-`Next.js` `TypeScript` `Node.js` `PostgreSQL` `Docker` `OpenAI`
-
-[Repository](https://github.com/farhadesmaeili/PROJECT)
-
----
-
-### AI Project
-
-An intelligent application using LLMs, AI agents, tool calling and backend services.
-
-**Tech Stack**
-
-`TypeScript` `Node.js` `OpenAI` `AI Agents` `Docker`
-
-[Repository](https://github.com/farhadesmaeili/PROJECT)
--->
-
 # 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/farhadesmaeili">
+<a href="https://farhades.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-farhades.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+
+<a href="https://github.com/farhadesmaeili" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-farhadesmaeili-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<!--
-Add these when ready:
-
-<a href="https://www.linkedin.com/in/YOUR_PROFILE">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/farhad-esmaeili" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Farhad_Esmaeili-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
--->
 
 </div>
 
@@ -482,6 +447,10 @@ Building software at the intersection of Web, Cloud, DevOps and Artificial Intel
 </sub>
 
 <br /><br />
+
+<a href="https://farhades.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Explore_My_Portfolio-2563EB?style=for-the-badge" alt="Portfolio" />
+</a>
 
 <a href="#readme-top">
   <img src="https://img.shields.io/badge/⬆_Back_to_Top-0F172A?style=for-the-badge" alt="Back to top" />
