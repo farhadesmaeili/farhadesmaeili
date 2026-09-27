@@ -362,13 +362,13 @@ I prefer building systems where application logic, infrastructure, external serv
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=farhadesmaeili&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="Farhad's GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhadesmaeili&theme=tokyonight" alt="Farhad's GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhadesmaeili&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhadesmaeili&theme=tokyonight" alt="Top Languages by Repository" />
 
 </div>
 
@@ -376,7 +376,17 @@ I prefer building systems where application logic, infrastructure, external serv
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=farhadesmaeili&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farhadesmaeili&theme=tokyonight" alt="Most Used Languages in Commits" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farhadesmaeili&theme=tokyonight&utcOffset=3.5" alt="Productive Time" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhadesmaeili&theme=tokyonight" alt="Farhad Esmaeili GitHub Profile Details" />
 
 </div>
 
