@@ -362,34 +362,26 @@ I prefer building systems where application logic, infrastructure, external serv
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhadesmaeili&theme=tokyonight" alt="Farhad's GitHub Stats" />
+<a href="https://github.com/farhadesmaeili">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=farhadesmaeili&theme=tokyo-night&hide_border=true&area=true"
+    width="95%"
+    alt="Farhad Esmaeili GitHub Activity Graph"
+  />
+</a>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhadesmaeili&theme=tokyonight" alt="Top Languages by Repository" />
+<br /><br />
 
-</div>
-
-<br />
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farhadesmaeili&theme=tokyonight" alt="Most Used Languages in Commits" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farhadesmaeili&theme=tokyonight&utcOffset=3.5" alt="Productive Time" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhadesmaeili&theme=tokyonight" alt="Farhad Esmaeili GitHub Profile Details" />
+<img
+  src="https://streak-stats.demolab.com?user=farhadesmaeili&theme=tokyonight&hide_border=true&border_radius=10"
+  alt="Farhad Esmaeili GitHub Streak"
+/>
 
 </div>
-
 ---
 
 ## 📈 Development Philosophy
