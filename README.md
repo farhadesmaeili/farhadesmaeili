@@ -362,19 +362,20 @@ I prefer building systems where application logic, infrastructure, external serv
 
 ---
 
-## 📈 GitHub Activity
+## ⏱️ Coding Activity
 
 <div align="center">
 
-<a href="https://github.com/farhadesmaeili">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=farhadesmaeili&theme=tokyo-night&hide_border=true&area=true"
-    width="95%"
-    alt="Farhad Esmaeili GitHub Activity Graph"
-  />
-</a>
+### 📊 WakaTime — Last 7 Days
 
-<br /><br />
+</div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br />
+
+<div align="center">
 
 <img
   src="https://streak-stats.demolab.com?user=farhadesmaeili&theme=tokyonight&hide_border=true&border_radius=10"
