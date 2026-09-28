@@ -262,6 +262,17 @@ A live snapshot of the technologies I've been working with recently.
 ### ⏱️ WakaTime — Last 7 Days
 
 <!--START_SECTION:waka-->
+
+```text
+Total Time: 1 hr 41 mins
+
+Bash         31 mins               ██████▓░░░░░░░░░░░░░░░░░░   27.09 %
+Python       29 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.51 %
+TypeScript   29 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.18 %
+Other        15 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
+Markdown     10 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
