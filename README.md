@@ -362,27 +362,14 @@ I prefer building systems where application logic, infrastructure, external serv
 
 ---
 
-## ⏱️ Coding Activity
+## 📈 Development Activity
 
-<div align="center">
-
-### 📊 WakaTime — Last 7 Days
-
-</div>
+A look at the technologies I've been working with recently.
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<br />
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=farhadesmaeili&theme=tokyonight&hide_border=true&border_radius=10"
-  alt="Farhad Esmaeili GitHub Streak"
-/>
-
-</div>
+---
 ---
 
 ## 📈 Development Philosophy
