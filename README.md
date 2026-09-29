@@ -264,13 +264,13 @@ A live snapshot of the technologies I've been working with recently.
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 1 hr 41 mins
+Total Time: 47 mins
 
-Bash         31 mins               ██████▓░░░░░░░░░░░░░░░░░░   27.09 %
-Python       29 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.51 %
-TypeScript   29 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.18 %
-Other        15 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
-Markdown     10 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
+Bash       31 mins               █████████████▒░░░░░░░░░░░   53.25 %
+Python     15 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.57 %
+Other      11 mins               █████░░░░░░░░░░░░░░░░░░░░   19.99 %
+Markdown   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Text       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
