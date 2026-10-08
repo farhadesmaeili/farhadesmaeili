@@ -264,13 +264,13 @@ A live snapshot of the technologies I've been working with recently.
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 6 hrs 35 mins
+Total Time: 6 hrs 33 mins
 
-Python       2 hrs 17 mins         ████████▓░░░░░░░░░░░░░░░░   34.54 %
-Markdown     1 hr 51 mins          ███████░░░░░░░░░░░░░░░░░░   27.95 %
-TypeScript   1 hr 35 mins          ██████░░░░░░░░░░░░░░░░░░░   23.86 %
-PowerShell   34 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
-Docker       12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+Python       2 hrs 17 mins         ████████▓░░░░░░░░░░░░░░░░   34.73 %
+Markdown     1 hr 51 mins          ███████░░░░░░░░░░░░░░░░░░   28.11 %
+TypeScript   1 hr 32 mins          ██████░░░░░░░░░░░░░░░░░░░   23.44 %
+PowerShell   34 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
+Docker       12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
 ```
 
 <!--END_SECTION:waka-->
