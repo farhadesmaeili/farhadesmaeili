@@ -264,13 +264,13 @@ A live snapshot of the technologies I've been working with recently.
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 11 hrs 3 mins
+Total Time: 12 hrs 55 mins
 
-Markdown     4 hrs 33 mins         ███████▒░░░░░░░░░░░░░░░░░   29.67 %
-TypeScript   4 hrs 18 mins         ███████░░░░░░░░░░░░░░░░░░   28.05 %
-Other        4 hrs 18 mins         ███████░░░░░░░░░░░░░░░░░░   28.00 %
-SQL          1 hr 9 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
-JavaScript   22 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+TypeScript   6 hrs 11 mins         ████████▒░░░░░░░░░░░░░░░░   32.68 %
+Other        6 hrs                 ████████░░░░░░░░░░░░░░░░░   31.73 %
+Markdown     4 hrs 22 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.14 %
+SQL          1 hr 9 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+YAML         24 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
 ```
 
 <!--END_SECTION:waka-->
