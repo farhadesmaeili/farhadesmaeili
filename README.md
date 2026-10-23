@@ -264,10 +264,9 @@ A live snapshot of the technologies I've been working with recently.
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 39 mins
+Total Time: 0 secs
 
-Markdown     36 mins               ███████████████████████▒░   92.92 %
-TypeScript   2 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
